@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-serif font-bold mb-4">Event Horizon</h3>
+            <h3 className="text-xl font-bold mb-4">Venue Umwizii</h3>
             <p className="text-gray-400 mb-4">
               Creating unforgettable moments and extraordinary events that leave lasting impressions.
             </p>
@@ -77,10 +77,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-medium mb-4">Contact Us</h3>
             <ul className="space-y-2">
-              <li className="text-gray-400">123 Event Street</li>
-              <li className="text-gray-400">New York, NY 10001</li>
-              <li className="text-gray-400">Phone: +1 (555) 123-4567</li>
-              <li className="text-gray-400">Email: info@eventhorizon.com</li>
+              <li className="text-gray-400">298, Carrick Creagh Road</li>
+              <li className="text-gray-400">Harare</li>
+              <li className="text-gray-400">Phone: +263 71 942 1117</li>
+              <li className="text-gray-400">Email: info@venueumwinzii.com</li>
             </ul>
           </div>
         </div>
@@ -88,7 +88,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Event Horizon. All rights reserved.
+              © {new Date().getFullYear()} Venue Umwenzii. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy" className="text-gray-400 hover:text-white text-sm transition-colors">

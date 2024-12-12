@@ -57,8 +57,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-900">Email</h3>
-                  <p className="text-gray-600">info@eventhorizon.com</p>
-                  <p className="text-gray-600">support@eventhorizon.com</p>
+                  <p className="text-gray-600">info@eventumwinzii.com</p>
+                  <p className="text-gray-600">support@eventumwinzii.com</p>
                 </div>
               </div>
 
@@ -68,8 +68,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-900">Location</h3>
-                  <p className="text-gray-600">123 Event Street</p>
-                  <p className="text-gray-600">New York, NY 10001</p>
+                  <p className="text-gray-600">+263 71 942 1117</p>
+                  <p className="text-gray-600">298, Carrick Creagh Road, Harare</p>
                 </div>
               </div>
 
