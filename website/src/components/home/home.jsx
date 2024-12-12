@@ -72,7 +72,8 @@ const Home = () => {
             initial={{ scale: 1.1 }}
             animate={{ scale: 1 }}
             transition={{ duration: 0.8 }}
-            className="absolute inset-0 bg-[url('v3.jpg')] bg-cover bg-center"
+            style={{ backgroundImage: `url(/v1.jpg)` }}
+className="absolute inset-0 bg-cover bg-center"
           />
         </div>
 
